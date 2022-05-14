@@ -1,13 +1,16 @@
-# ElonCatMoon Website v1.0
+# Crypto Website Template
 
-This website is written with react.js
+This is the source code for [ElonCatMoon](https://www.eloncatmoon.com/).
 
-## Todo
+![ECAT website](/src/images/ecat-vif.gif "ECAT website")
 
-* [ ] TypeScript Migration
-* [ ] Files Management (change names, move files, etc)
-* [ ] CSS Cleanup
-* [ ] JS Cleanup
+This website is written with react.js. I have it hosted on Netlify if you have any questions or comments, please feel free to reach out to me at [My Twitter](https://twitter.com/TheTobyMiller) or open an issue on this repository.
+
+## Use
+
+Feel free to use this as a template for your own website.
+
+The code is not super optimized, but it works. If you have any suggestions, please let me know.
 
 ## Getting Started with Create React App
 
