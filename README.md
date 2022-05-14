@@ -2,7 +2,7 @@
 
 This is the source code for [ElonCatMoon](https://www.eloncatmoon.com/).
 
-[ElonCatMoon Website](src/images/ecat-vid.gif)
+![ElonCatMoon Website](src/images/ecat-vid.gif)
 
 This website is written with react.js. I have it hosted on Netlify if you have any questions or comments, please feel free to reach out to me at [My Twitter](https://twitter.com/TheTobyMiller) or open an issue on this repository.
 
