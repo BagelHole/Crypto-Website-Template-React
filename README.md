@@ -4,6 +4,8 @@
 
 This website is written with react.js. I have it hosted on Netlify if you have any questions or comments, please feel free to reach out to me at [My Twitter](https://twitter.com/TheTobyMiller) or open an issue on this repository.
 
+## I no longer own the Domain for ElonCatMoon and do not endorse anything Elon does in our government.
+
 ## Use
 
 Feel free to use this as a template for your own website.
